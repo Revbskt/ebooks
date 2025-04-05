@@ -1,1 +1,21 @@
+[
+  {
+    "title": "Liars",
+    "author": "Unknown",
+    "cover": "https://via.placeholder.com/200x300.png?text=No+Cover",
+    "fileUrl": "https://raw.githubusercontent.com/Revbskt/ebooks/main/liars.epub"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "cover": "https://via.placeholder.com/200x300.png?text=No+Cover",
+    "fileUrl": "https://raw.githubusercontent.com/Revbskt/ebooks/main/moby-dick.epub"
+  },
+  {
+    "title": "The Purloined Letter",
+    "author": "Edgar Allan Poe",
+    "cover": "https://via.placeholder.com/200x300.png?text=No+Cover",
+    "fileUrl": "https://raw.githubusercontent.com/Revbskt/ebooks/main/poe-purloined-letter.epub"
+  }
+]
 
